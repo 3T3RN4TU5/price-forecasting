@@ -4,6 +4,8 @@ Weekly arecanut (*adike*) price forecasts for the Dakshina Kannada mandis (Manga
 Sullia, Belthangady), turned into a plain **Sell now / Hold / Sell part** signal for farmers. Available
 in English and Kannada, with a sell calculator, WhatsApp sharing and a free JSON API for traders and co-ops.
 
+![AdikeCast home page with this week's arecanut prices per mandi and sell signals](docs/screenshot.jpg)
+
 > The site starts on a *synthetic* demo series. It switches to real Agmarknet prices automatically
 > once two years of history have been imported (see [Data](#data)). While it is on demo data, every
 > page shows a banner saying so.
