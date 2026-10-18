@@ -6,6 +6,8 @@ in English and Kannada, with a sell calculator, WhatsApp sharing and a free JSON
 
 ![AdikeCast home page with this week's arecanut prices per mandi and sell signals](docs/screenshot.jpg)
 
+![Animated demo: scrolling the weekly mandi prices and forecasts](docs/demo.gif)
+
 > The site starts on a *synthetic* demo series. It switches to real Agmarknet prices automatically
 > once two years of history have been imported (see [Data](#data)). While it is on demo data, every
 > page shows a banner saying so.
