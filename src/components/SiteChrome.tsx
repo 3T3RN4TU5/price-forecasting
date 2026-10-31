@@ -74,7 +74,7 @@ export function SiteFooter({ lang }: { lang: Locale }) {
             JSON API
           </a>{" "}
           ·{" "}
-          <a className="underline hover:text-ink" href="https://github.com/Jeevan2410/price-forecasting">
+          <a className="underline hover:text-ink" href="https://github.com/3T3RN4TU5/price-forecasting">
             GitHub
           </a>
         </p>
